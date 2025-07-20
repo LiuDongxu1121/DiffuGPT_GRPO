@@ -1,0 +1,5 @@
+data/
+diffu-grpo/cache/
+diffu-grpo/checkpoints/
+diffu-grpo/wandb/
+diffu-grpo/model_config/pytorch_model.bin
